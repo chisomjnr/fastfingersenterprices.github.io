@@ -650,10 +650,6 @@ top: 4px;
       height: 600px;
   
     }
-    
-
-
-   
   
     .text-container {
       position: absolute;
@@ -773,11 +769,6 @@ position: relative;
 top: -10px;
 }
 
-
-
-
-
-
 .wrapper .outer{
 display: flex;
 align-items: center;
@@ -873,12 +864,6 @@ transition: all 0.3s ease;
 .card a:hover{
 transform: scale(0.94);
 }
-
-
-
-
-
-
 
 .services{
 background: black;
@@ -1116,8 +1101,6 @@ footer {
   }
   
 
-
-
 .hero-section{
     position: relative;
     top: 2px;
@@ -1130,10 +1113,6 @@ footer {
     height: 600px;
 
   }
-  
-
-
- 
 
   .text-container {
     position: absolute;
@@ -1253,11 +1232,6 @@ position: relative;
 top: -10px;
 }
 
-
-
-
-
-
 .wrapper .outer{
 display: flex;
 align-items: center;
@@ -1353,12 +1327,6 @@ transition: all 0.3s ease;
 .card a:hover{
 transform: scale(0.94);
 }
-
-
-
-
-
-
 
 .services{
 background: black;
@@ -1577,10 +1545,6 @@ top: 4px;
   
     }
     
-
-
-   
-  
     .text-container {
       position: absolute;
       bottom: 20px;
@@ -1698,10 +1662,6 @@ font-size: 30px;
 position: relative;
 top: -10px;
 }
-
-
-
-
 
 
 .wrapper .outer{
@@ -1955,9 +1915,9 @@ footer {
 
 
 
+/* 
 
 
-/*smaller mobile view */
 @media only screen and (max-width: 60px) {
   body, ul {
     margin: 10px;
@@ -1980,7 +1940,7 @@ footer {
     align-content: center;
       
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add box shadow */
-  }
+  /* }
     
     .logo {
       width: 110px;
@@ -2237,12 +2197,6 @@ transition: all 0.3s ease;
 transform: scale(0.94);
 }
 
-
-
-
-
-
-
 .services{
 background: black;
 background-size: cover;
@@ -2395,4 +2349,4 @@ footer {
 
 }
 
-
+  */
