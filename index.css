@@ -1955,9 +1955,9 @@ footer {
 
 
 /*smaller mobile view */
-@media only screen and (max-width: 50px) {
+@media only screen and (max-width: 0px) {
   body, ul {
-    margin: 0;
+    margin: 10px;
     padding: 0;
     margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
