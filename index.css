@@ -604,7 +604,7 @@ background: black;
 
 
 
-/* mobile view */
+/* semi tab view */
 @media only screen and (max-width: 900px) {
   header {
       background-color: white;
@@ -1955,7 +1955,7 @@ footer {
 
 
 /*smaller mobile view */
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 50px) {
   header {
       background-color: white;
       color: #fff;
