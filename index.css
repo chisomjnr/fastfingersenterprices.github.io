@@ -69,7 +69,7 @@
 body, ul {
     margin: 0;
     padding: 0;
-    margin: 20px;
+    margin: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
   }
   
@@ -1523,6 +1523,15 @@ font-weight: bold;
 
 /* mobile view */
 @media only screen and (max-width: 600px) {
+body, ul{
+  margin: 10px;
+  padding: 0;
+  margin: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
   header {
       background-color: white;
       color: #fff;
@@ -1791,12 +1800,6 @@ transition: all 0.3s ease;
 transform: scale(0.94);
 }
 
-
-
-
-
-
-
 .services{
 background: black;
 background-size: cover;
@@ -1955,7 +1958,7 @@ footer {
 
 
 /*smaller mobile view */
-@media only screen and (max-width: 0px) {
+@media only screen and (max-width: 60px) {
   body, ul {
     margin: 10px;
     padding: 0;
