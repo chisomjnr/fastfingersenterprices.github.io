@@ -729,7 +729,7 @@ max-width: 400px ;
 }
 
 .about-text h2{
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -759,7 +759,7 @@ justify-content:left;
 }
 
 .about-tet h2{
-font-size: 27px;
+font-size: 25px;
 
 }
 
@@ -884,7 +884,7 @@ box-shadow: inset 0px 10px 10px -10px rgba(0, 0, 0, 0.4);
 
 .services h2{
 color: #fff;
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -949,7 +949,7 @@ border-radius: 18px;
 
 .contact h2{
 
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1192,7 +1192,7 @@ max-width: 400px ;
 }
 
 .about-text h2{
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1222,7 +1222,7 @@ justify-content:left;
 }
 
 .about-tet h2{
-font-size: 27px;
+font-size: 25px;
 
 }
 
@@ -1347,7 +1347,7 @@ box-shadow: inset 0px 10px 10px -10px rgba(0, 0, 0, 0.4);
 
 .services h2{
 color: #fff;
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1412,7 +1412,7 @@ border-radius: 18px;
 
 .contact h2{
 
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1610,7 +1610,8 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 width: 100%;
-height: 490px;
+height: 400px;
+margin-top: 30px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -1624,7 +1625,7 @@ max-width: 350px ;
 }
 
 .about-text h2{
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1655,7 +1656,7 @@ justify-content:left;
 }
 
 .about-tet h2{
-font-size: 27px;
+font-size: 25px;
 
 }
 
@@ -1769,6 +1770,7 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 width: 100%;
+
 height: 550px;
 display: flex;
 align-items: center;
@@ -1783,8 +1785,9 @@ box-shadow: inset 0px 10px 10px -10px rgba(0, 0, 0, 0.4);
 
 .services h2{
 color: #fff;
-font-size: 27px;
+font-size: 25px;
 margin-bottom: 10px;
+margin-top: 60px;
 }
 
 
@@ -1838,18 +1841,18 @@ background: black;
 
 .contact-content{
 max-width: 350px ;
-
+margin-bottom: 40px;
 width: 100%;
 height: 350px;
-margin-bottom: 20px;
+
 border-radius: 18px;
 
 }
 
 
 .contact h2{
-
-font-size: 27px;
+  margin-top: 60px;
+font-size: 25px;
 margin-bottom: 10px;
 }
 
@@ -1897,9 +1900,9 @@ align-items: center;
 justify-content: center;
 color: grey;
 position: relative;
-top: 40px;
+top: -6px;
 display: flex;
-font-size: 12px;
+font-size: 11px;
 }
 
 footer {
@@ -1909,7 +1912,7 @@ footer {
   color: white;
   text-align: center;
   font-size: 13px;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 
