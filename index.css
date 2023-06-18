@@ -1610,7 +1610,7 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 width: 100%;
-height: 440px;
+height: 490px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -1620,7 +1620,7 @@ justify-content: center;
 
 .about-text{
 
-max-width: 300px ;
+max-width: 350px ;
 }
 
 .about-text h2{
@@ -1638,7 +1638,7 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 width: 100%;
-height: 100px;
+height: 120px;
 display: flex;
 align-items: center;
 justify-content: center;
@@ -1646,7 +1646,7 @@ margin-bottom: 35px;
 }
 
 .about-tet{
-max-width: 400px;
+max-width: 350px;
 position: relative;
 left: 5px;
 align-items: left;
@@ -1665,11 +1665,13 @@ top: -10px;
 
 
 .wrapper .outer{
+
 display: flex;
 align-items: center;
 justify-content: center;
 }
 .wrapper .card{
+  max-width: 350px;
 background: black;
 color: #fff;
 width: 400px;
@@ -1791,7 +1793,7 @@ font-size: 15px;
 }
 
 .service-box{
-max-width: 400px ;
+max-width: 350px ;
 
 }
 
@@ -1834,7 +1836,7 @@ background: black;
 }
 
 .contact-content{
-max-width: 400px ;
+max-width: 350px ;
 
 width: 100%;
 height: 350px;
