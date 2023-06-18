@@ -1900,7 +1900,7 @@ align-items: center;
 justify-content: center;
 color: grey;
 position: relative;
-top: -6px;
+top: -1px;
 display: flex;
 font-size: 11px;
 }
