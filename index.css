@@ -149,7 +149,8 @@ border-bottom: 4px solid black; */
   
 
   .hero-section{
-   
+   position: relative;
+   top: -30px;
     background: url('images/hompage4.jpg');
     background-size: cover;
     background-position: center;
@@ -570,18 +571,25 @@ background: black;
 }
 #o{
     font-size: 12px;
-    display: flex;
+    display: none;
     align-items: center;
     justify-content: center;
     color: grey;
     position: relative;
-    top: 39px;
+ 
     
 }
 
 #op{
-  display: none;
-}
+  display: contents;
+  align-items: center;
+  justify-content: center;
+  color: grey;
+  position: relative;
+  top: 39px;
+  display: flex;
+  font-size: 11px;
+  }
 
     footer {
         background-color: palevioletred;
@@ -1884,7 +1892,7 @@ display: none;
 
 #o{
   font-size: 12px;
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   color: grey;
