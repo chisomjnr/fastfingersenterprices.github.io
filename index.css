@@ -166,7 +166,7 @@ border-bottom: 4px solid black; */
     bottom: -250px;
     left: 30px; /* Adjust the left positioning as desired */
     text-align: left; /* Adjust the text alignment as desired */
-    color: #fff;
+    color: black;
     width: 80%; /* Adjust the width as desired */
     max-width: 600px; /* Add a max-width to limit the container size */
   }
